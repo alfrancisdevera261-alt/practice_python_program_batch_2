@@ -1,4 +1,5 @@
 i = 0
 while i <= 100:
-    print(i)
+    if i % 2 == 1:
+        print(i)
     i += 1
