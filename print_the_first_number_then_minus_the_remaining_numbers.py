@@ -1,2 +1,3 @@
-for i in range(0, 10):
-    number = float(input(f"Enter number {i+1}: "))
+number1 = float(input("Enter number 1: "))
+for i in range(1, 9):
+    number2 = float(input(f"Enter number {i+2}: "))
